@@ -1,0 +1,12 @@
+{
+    "name": "administrator/learning_composer",
+    "authors": [
+        {
+            "name": "Karan Guleria",
+            "email": "himekaranguleria@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
